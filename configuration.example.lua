@@ -4,20 +4,19 @@ return { -- rename this file to configuration.lua for the bot to work
 
     ['admins'] = {  -- Here you need to specify the numerical ID of the users who shall have FULL control over the bot, this includes access to server files via the lua and shell plugins.
 
-        221714512,
-        280653891
+        91054649
 
     },
 
     ['info'] = {
 
-        ['name'] = 'mattata', -- The name of your bot.
+        ['name'] = 'tornado', -- The name of your bot.
 
-        ['first_name'] = 'mattata',
+        ['first_name'] = 'tornado',
 
         ['last_name'] = nil,
 
-        ['username'] = 'mattatabot', -- The @username of your bot (this can be found through @BotFather).
+        ['username'] = 'tornado_robot', -- The @username of your bot (this can be found through @BotFather).
 
         ['id'] = 268302625 -- The numerical ID of your bot (this is the preceding string of numbers before the : in your bot API token).
 
